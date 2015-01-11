@@ -1,0 +1,10 @@
+D:\hyder\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+D:\hyder\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+D:\hyder\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+D:\hyder\SalaryCalculator\SalaryCalculator\bin\Debug\nunit.framework.dll
+D:\hyder\SalaryCalculator\SalaryCalculator\bin\Debug\nunit.framework.xml
+D:\hyder\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojResolveAssemblyReference.cache
+D:\hyder\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Properties.Resources.resources
+D:\hyder\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.GenerateResource.Cache
+D:\hyder\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+D:\hyder\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

@@ -1,0 +1,20 @@
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountUI.resources
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+E:\FTFL_ASP.Net\LAB Prac\01-01-15\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+D:\hyder\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+D:\hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+D:\hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+D:\hyder\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+D:\hyder\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+D:\hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+D:\hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountUI.resources
+D:\hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+D:\hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+D:\hyder\BankAccountApp\BankAccountApp\bin\Debug\nunit.framework.dll
+D:\hyder\BankAccountApp\BankAccountApp\bin\Debug\nunit.framework.xml
